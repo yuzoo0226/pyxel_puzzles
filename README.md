@@ -8,9 +8,11 @@ pip install pyxel
 
 ## How to run
 
+- ![テトリス](./docs/tetris.png)
+
 ```bash
-python scripts/sample.py
+python scripts/tetris.py
 ```
 
 - ノーコード開発を目指しています．
-  - https://chatgpt.com/share/6728c0d4-bee4-800a-8211-a2cbca28ae09
+  - [chat-gpt](https://chatgpt.com/share/6728c0d4-bee4-800a-8211-a2cbca28ae09)
